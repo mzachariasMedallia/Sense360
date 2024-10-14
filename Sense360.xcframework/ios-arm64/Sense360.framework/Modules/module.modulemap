@@ -4,3 +4,8 @@ framework module Sense360 {
 
   module * { export * }
 }
+
+module Sense360.Swift {
+  header "Sense360-Swift.h"
+  requires objc
+}

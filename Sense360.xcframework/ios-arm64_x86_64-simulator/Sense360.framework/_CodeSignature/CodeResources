@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/Sense360-Swift.h</key>
+		<data>
+		llQUVmAPYJXmTtXCRMPrU9dciz8=
+		</data>
 		<key>Headers/Sense360.h</key>
 		<data>
 		WAAYAshZnHxjS4FvKkXMROsoNnU=
@@ -18,7 +22,7 @@
 		</data>
 		<key>Modules/Sense360.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		kufv/8qHCY3up7HfmmvmwqVqgRM=
+		pxSW7WoEx8idwxEceKkAsQgW7RA=
 		</data>
 		<key>Modules/Sense360.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,7 +30,7 @@
 		</data>
 		<key>Modules/Sense360.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		kufv/8qHCY3up7HfmmvmwqVqgRM=
+		pxSW7WoEx8idwxEceKkAsQgW7RA=
 		</data>
 		<key>Modules/Sense360.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
@@ -38,7 +42,7 @@
 		</data>
 		<key>Modules/Sense360.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		pK1KollrFBXExcv7gkHu2e+qLxA=
+		7CUtVIAtWjvZznaCOp9it8YmwbI=
 		</data>
 		<key>Modules/Sense360.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,7 +50,7 @@
 		</data>
 		<key>Modules/Sense360.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		pK1KollrFBXExcv7gkHu2e+qLxA=
+		7CUtVIAtWjvZznaCOp9it8YmwbI=
 		</data>
 		<key>Modules/Sense360.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
@@ -54,11 +58,18 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		/kFW9rru28kK419fapiMKDX6CTs=
+		v6gmWYlFhKrtrJWJvFgvrPEWYiU=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/Sense360-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C8Fxy6v9EjuoOXuFsHR6sPcZIdRs/6RdRbaft0dYchk=
+			</data>
+		</dict>
 		<key>Headers/Sense360.h</key>
 		<dict>
 			<key>hash2</key>
@@ -77,7 +88,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+vlufL0vtKbO8L5Vvj0HWo8d6c46OCJEBFZiBiFpURE=
+			32T/CGFWrnRVit/FexEl3DLfUST1LpU1SGE0k0z1Q3c=
 			</data>
 		</dict>
 		<key>Modules/Sense360.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -91,7 +102,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+vlufL0vtKbO8L5Vvj0HWo8d6c46OCJEBFZiBiFpURE=
+			32T/CGFWrnRVit/FexEl3DLfUST1LpU1SGE0k0z1Q3c=
 			</data>
 		</dict>
 		<key>Modules/Sense360.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
@@ -112,7 +123,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xt22RKRlI+dxblzjyXm62URU+BzTnZWNgJQAu609n58=
+			uChE4j1wcSTTXNW5ejO3fOgH6j5RYfvTOTSkv1Y4SEc=
 			</data>
 		</dict>
 		<key>Modules/Sense360.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -126,7 +137,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xt22RKRlI+dxblzjyXm62URU+BzTnZWNgJQAu609n58=
+			uChE4j1wcSTTXNW5ejO3fOgH6j5RYfvTOTSkv1Y4SEc=
 			</data>
 		</dict>
 		<key>Modules/Sense360.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
@@ -140,7 +151,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3hz9sKhyW/nnetDKjjvgcoCIBGUZSGnKdNQLm3tIgW0=
+			7YIgFNKmjr70aQbAaecMeWsoIw+m4xX3WKFCmRhXj4w=
 			</data>
 		</dict>
 	</dict>

@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/Sense360-Swift.h</key>
+		<data>
+		JQlsiYw2662AnuO3dYUd+vu8Iwo=
+		</data>
 		<key>Headers/Sense360.h</key>
 		<data>
 		WAAYAshZnHxjS4FvKkXMROsoNnU=
@@ -18,7 +22,7 @@
 		</data>
 		<key>Modules/Sense360.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		tZbcXGwhMqpXyYrSd5HH1vrzRjY=
+		S/+RSnRQr+0wH6ej0SVBgOaG6+s=
 		</data>
 		<key>Modules/Sense360.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,7 +30,7 @@
 		</data>
 		<key>Modules/Sense360.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		tZbcXGwhMqpXyYrSd5HH1vrzRjY=
+		S/+RSnRQr+0wH6ej0SVBgOaG6+s=
 		</data>
 		<key>Modules/Sense360.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
@@ -34,11 +38,18 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		/kFW9rru28kK419fapiMKDX6CTs=
+		v6gmWYlFhKrtrJWJvFgvrPEWYiU=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/Sense360-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tFFs3DLz3OSUnd71E8fIuXSXxk6RswTX3Vheljjc+ps=
+			</data>
+		</dict>
 		<key>Headers/Sense360.h</key>
 		<dict>
 			<key>hash2</key>
@@ -57,7 +68,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4LLpMXNqntaPKduYNy6U/ROgPImTYw9tvvU4qh0tyVA=
+			QFRYSb3wfNsrGehT+aSWFMVTJNvjBU84C2tPuygw3hI=
 			</data>
 		</dict>
 		<key>Modules/Sense360.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -71,7 +82,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4LLpMXNqntaPKduYNy6U/ROgPImTYw9tvvU4qh0tyVA=
+			QFRYSb3wfNsrGehT+aSWFMVTJNvjBU84C2tPuygw3hI=
 			</data>
 		</dict>
 		<key>Modules/Sense360.swiftmodule/arm64-apple-ios.swiftmodule</key>
@@ -85,7 +96,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3hz9sKhyW/nnetDKjjvgcoCIBGUZSGnKdNQLm3tIgW0=
+			7YIgFNKmjr70aQbAaecMeWsoIw+m4xX3WKFCmRhXj4w=
 			</data>
 		</dict>
 	</dict>
