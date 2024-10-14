@@ -21,5 +21,5 @@ Pod::Spec.new do |s|
   s.platform            = :ios, "12.0"
   s.preserve_paths      = 'Sense360.xcframework'
   s.vendored_frameworks = 'Sense360.xcframework'
-  s.dependency 'BridgeSDK', '~> 3.0.0'
+  s.dependency 'BridgeSDK', '>=3.0.0'
 end
