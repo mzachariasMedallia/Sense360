@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.summary             = "The Sense360 for iOS."
   s.authors             = { "Medallia" => "cocoapods-mxo@medallia.com" }
   s.homepage            = "https://github.com/mzachariasMedallia/Sense360"
-  s.description         = "The BridgeSDK for iOS using cocoapods."
+  s.description         = "The Sense360 for iOS using cocoapods."
   s.license             = { :type => "Commercial", :text => "Copyright © 2023 Medallia. Use subject to licensing terms." }
   s.source              = { :git => "https://github.com/mzachariasMedallia/Sense360.git", :tag => "1.0.0" }
   s.platform            = :ios, "12.0"
