@@ -1,0 +1,6 @@
+framework module Sense360 {
+  umbrella header "Sense360.h"
+  export *
+
+  module * { export * }
+}
