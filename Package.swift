@@ -6,14 +6,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "BridgeSDK",
+    name: "Sense360",
     platforms: [
         .iOS(.v12)
     ],
     products: [
         .library(
-            name: "BridgeSDK",
-            targets: ["BridgeSDK_Wrapper"]
+            name: "Sense360",
+            targets: ["Sense360_Wrapper"]
         )
     ],
     dependencies: [
@@ -21,14 +21,14 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(
-            name: "BridgeSDK",
-            path: "BridgeSDK.xcframework"
+            name: "Sense360",
+            path: "Sense360.xcframework"
         ),
-        .target(name: "BridgeSDK_Wrapper",
+        .target(name: "Sense360_Wrapper",
                 dependencies: [
-                    .target(name: "BridgeSDK", condition: .when(platforms: .some([.iOS])))
+                    .target(name: "Sense360", condition: .when(platforms: .some([.iOS])))
                 ],
-                path: "BridgeSDK_Wrapper"
+                path: "Sense360_Wrapper"
         )
     ]
 )
